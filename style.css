@@ -1,0 +1,59 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  
+
+}
+
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid lightblue;
+  float: left;
+  width: 600px;
+
+
+}
+
+div.gallery:hover {
+  border: 1px solid lightblue;
+
+
+}
+
+
+div.gallery img {
+  width: 600;
+  height: 400;
+
+
+}
+
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+
+
+}
+
+
+h3 {
+  color: white;
+  text-align-last: left;
+  text-align: left;
+}
+
+
+h3 {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+a {
+    color: rgb(238, 255, 0);
+  }
