@@ -13,7 +13,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid lightblue;
   float: left;
-  width: 100px;
+  width: 600;
   color: white;
 
 }
@@ -26,7 +26,7 @@ div.gallery:hover {
 
 
 div.gallery img {
-  width: 100;
+  width: 600;
   height: auto;
 
 
