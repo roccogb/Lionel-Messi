@@ -42,6 +42,17 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
 }
+
+h2 {
+
+    color: white;
+    text-align-last: left;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+
 article {
   color: white;
   text-align-last: left;
