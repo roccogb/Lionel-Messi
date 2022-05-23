@@ -2,13 +2,6 @@ body {
   background-color: lightblue;
 }
 
-h1 {
-  color: white;
-  
-
-}
-
-
 div.gallery {
   margin: 5px;
   border: 1px solid lightblue;
@@ -41,14 +34,18 @@ div.desc {
 }
 
 
+h1 {
+
+    color: white;
+    text-align-last: left;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
 h3 {
   color: white;
   text-align-last: left;
   text-align: left;
-}
-
-
-h3 {
   font-family: verdana;
   font-size: 20px;
 }
