@@ -10,7 +10,10 @@ div.gallery {
   color: white;
 
 }
-
+.pic-container{
+  display: flex;
+  flex-direction:row;
+}
 div.gallery:hover {
   border: 1px solid lightblue;
 
