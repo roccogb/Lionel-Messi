@@ -1,0 +1,67 @@
+body {
+  background-color: lightblue;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid lightblue;
+  float: left;
+  width: 600px;
+  color: white;
+
+}
+
+div.gallery:hover {
+  border: 1px solid lightblue;
+
+
+}
+
+
+div.gallery img {
+  width: 600px;
+  height: 400px;
+
+
+}
+
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+
+
+}
+
+
+p {
+
+    color: white;
+    text-align-last: left;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h2 {
+
+    color: white;
+    text-align-last: left;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+article {
+  color: white;
+  text-align-last: left;
+  text-align: left;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+a {
+    color: rgb(238, 255, 0);
+    font-size: 20px;
+  }
