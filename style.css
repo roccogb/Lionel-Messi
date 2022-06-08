@@ -109,3 +109,11 @@ h2 {
 }
 
 
+h1 {
+
+  color: lightblue;
+  text-align-last: left;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
