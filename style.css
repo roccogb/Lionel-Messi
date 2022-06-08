@@ -7,7 +7,7 @@ nav{
   top: 0;
   width: 100%;
   height: 40px;
-  background-color: lightblue;
+  background-color: rgb(255, 255, 255);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -17,8 +17,8 @@ nav{
 #Inicio{
   width: 100%;
   height: 500px;
-  color: white;
-  background-color: lightblue;
+  color: lightblue;
+  background-color: rgb(255, 255, 255);
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
@@ -33,8 +33,8 @@ nav{
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: white;
-  background:linear-gradient(lightblue, rgb(255, 251, 0),lightblue);
+  color: lightblue;
+  background:linear-gradient(white, rgb(255, 251, 0),white);
   border-bottom: solid 3px rgb(255, 251, 0);
 
 }
@@ -45,8 +45,8 @@ nav{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: lightblue;
-  color: white;
+  background-color: rgb(255, 255, 255);
+  color: lightblue;
 
 } 
 
