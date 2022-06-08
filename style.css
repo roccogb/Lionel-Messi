@@ -63,17 +63,6 @@ h2 {
   font-variant: small-caps;
   text-shadow: 1px 1px black;
 }
-.respmenu input[type="checkbox"], .respmenu .fa-bars, .respmenu .fa-times {
-    right: initial;
-    left: 0;
-    }
-    
-.respmenu {
-    padding-top: 48px;
-    min-height: initial;
-  }
-
-
 
 a {
     color: rgb(238, 255, 0);
