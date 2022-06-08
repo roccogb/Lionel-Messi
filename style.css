@@ -1,60 +1,82 @@
-body {
-  background-color: lightblue;
-}
+<!DOCTYPE HTML> 
+      <html lang="en"> 
+        <head>
+        <title>Lionel Messi🐐</title>
+        <link rel="stylesheet" href="style.css">
+      </head>
+      <body>
+      
+          <header>
+            <a href="#" class="logo">
+              <img src="messigoat.png" alt="Logo Messi">
+              <h2 class=Lionel-Messi>Messi</h2>
+            </a>
 
+              <nav>
+                  <a href="" class="nav-link">Inicio</a>
+                  <a href="" class="nav-link">Biografia</a>
+                  <a href="" class="nav-link">Debut</a>
+                  <a href="" class="nav-link">Mundial</a>
+              </nav>
+          </header>
 
-div.gallery {
-  margin: 5px;
-  border: 1px solid lightblue;
-  float: left;
-  width: 600px;
-  color: white;
-
-}
-
-div.gallery:hover {
-  border: 1px solid lightblue;
-
-
-}
-
-
-div.gallery img {
-  width: 600px;
-  height: 550px;
-
-
-}
-
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-
-
-}
-
-
-p {
-
-    color: white;
-    text-align-last: left;
-    text-align: left;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-}
-
-h2 {
-
-    color: white;
-    text-align-last: left;
-    text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;
-}
-
-
-a {
-    color: rgb(238, 255, 0);
-    font-size: 20px;
-  }
+          <section id="Inicio">
+          <h2>Lionel Messi🐐</h2>
+          
+          <p>(Lionel Andrés Messi; Rosario, Santa Fe, 1987) Futbolista argentino. Poseedor de una habilidad técnica excepcional, una endiablada velocidad y una inventiva inagotable, desde que llegó de la mano de sus padres al F.C. Barcelona, con 13 años de edad, realizó una carrera vertiginosa por las diferentes categorías hasta el primer equipo, en el que debutó con apenas 16 años en un partido amistoso ante el Oporto. En 2004, con 17 años, Leo Messi jugó su primer encuentro oficial de la Liga española. Con 18 años le llegó su consagración internacional: formó parte de la selección argentina, campeona en el Mundial Juvenil Sub-20 de Holanda, disputado en 2005.</p>
+          </section>
+          <div class="gallery">
+              <a target="_blank" href="messii.jpg">
+                <img src="messii.jpg" alt="Messi" style="width:600px; height: 550px;">
+              </a>
+              <div class="desc">El</div>
+            </div>
+            
+            <div class="gallery">
+              <a target="_blank" href="messi3.jpg">
+                <img src="messi3.jpg" alt="Messi" style="width:600px; height:550pxpx;">
+              </a>
+              <div class="desc">Mejor</div>
+            </div>
+            
+            <div class="gallery">
+              <a target="_blank" href="messi2.jpg">
+                <img src="messi2.jpg" alt="Messi" style="width:600px; height:550pxpx;">
+              </a>
+              <div class="desc">Del Mundo</div>
+            </div>
+            
+            <section id="Biografia">
+           <h2>Biografia de Lionel Messi</h2>
+           <p>Conocido como Leo o Pulga, su inmensa calidad ya apuntaba cuando tenía cinco años y jugaba en el club de barrio de su ciudad natal dirigido por su padre, un empleado de la industria metalúrgica, y se reafirmó cuando, a partir de sus siete años, comenzó a jugar en las divisiones inferiores del Newell's Old Boys de Rosario.A los 10 años, a punto de dar el salto al club River Plate de Buenos Aires, se le detectó un retraso en el desarrollo óseo causado por un bajo nivel de hormonas del crecimiento; el tratamiento médico era muy costoso, los clubes no quisieron afrontarlo y su padre, que no disponía de los recursos económicos necesarios, decidió entonces emigrar a Barcelona con su familia, donde se le había presentado una posibilidad laboral. En septiembre de 2000, Leo Messi realizaba una prueba en el F.C. Barcelona; el técnico Carles Rexach quedó maravillado con su talento futbolístico y, firmando en efecto un contrato en una servilleta de papel, como cuenta la anécdota, lo incorporó al club, que se hizo cargo del tratamiento del chico. Messi tenía entonces trece años y medía 1,40. A partir de ese momento Messi se formaría en la Masia, centro de entrenamiento de la cantera azulgrana, donde pasó por las diferentes categorías (Infantil A, Cadete B, Cadete A, Juvenil A, Barça C y Barça B) antes de llegar al primer equipo, ya en la era del presidente Joan Laporta. Aunque participó en el amistoso que enfrentó al FC Barcelona con el FC Porto en el partido de inauguración del Estadio do Dragáo (16 de noviembre de 2003), su debut oficial en primera división con la camiseta azulgrana se produjo el 16 de octubre de 2004 en Montjuic, en el clásico derby con el Español de Barcelona. </p>
+           </section>
+        
+          <div style="text-align: center;">
+         <img src="Lionel_Messi_20180626.jpg" alt="Messi" style="width:600px; height:550px;">
+        </div>
+      
+      
+        <section>
+        <h2>Debut de Lionel Messi</h2>
+        <p>Lo demás es historia reciente. A sus 17 años la Pulga marcaba su primer gol como profesional en el Barça en un partido contra el Albacete, y se convertía en el jugador más joven del equipo azulgrana en lograr un tanto en la Liga española. Durante esa temporada 2004-2005, las lesiones que arrastraban algunas figuras del primer equipo y su brillante trayectoria en el filial hicieron que fuese un habitual en las convocatorias y que contribuyera a la consecución del título de Liga, el primero de su palmarés. Pero la progresión del ariete no había hecho más que empezar. La temporada 2005-2006, después de un gran debut en el trofeo Joan Gamper contra la Juventus de Turín, fue ya sin duda una buena campaña, aunque una lesión muscular lo apartó de los terrenos de juego en el tramo final de la competición. Se exhibió en el Santiago Bernabéu, en un memorable partido en el que los azulgranas vencieron al Real Madrid por 0-3, y en Stamford Bridge, en los octavos de final de la Liga de Campeones contra el Chelsea. El resultado de la temporada para el equipo de Frank Rijkaard no pudo ser mejor: ganó la Supercopa de España, la Liga y la Liga de Campeones, la segunda de su historia. En 2006-2007 las cosas no fueron tan bien para el Barça, que no ganó ningún título importante, pero Messi deleitó a los aficionados con jugadas espectaculares que ya lo postularon entre los mejores jugadores del mundo. Entre sus momentos de gloria se cuenta el haber logrado los tres goles del Barcelona que le valieron el empate frente al Real Madrid, en el partido disputado en el Camp Nou el 10 de marzo de 2007. Otro momento estelar en la biografía de Leo Messi fue su hazaña del 18 de abril de ese mismo año, en las semifinales de la Copa del Rey contra el Getafe, cuando eludió a cinco jugadores, portero incluido, e hizo el segundo gol de su equipo. Esta genialidad dio la vuelta al mundo y todos lo compararon con el Maradona que coronó el célebre "Gol del siglo" ante Inglaterra, en el Mundial de México de 1986. La progresión del jugador continuó en 2007-2008, una temporada difícil para el equipo, que vio cómo se agotaba el proyecto liderado por Ronaldinho y acababa la era de Frank Rijkaard en el banquillo.</p>
+      </section>
+      
+      
+         <div align="center">
+        <iframe width="600" height="550" src="https://www.youtube.com/embed/_x2yGa-1DNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+        
+      
+        <section id="Mundial">
+        <h2>El sueño del Mundial</h2>
+        <p>Con la victoria de España en el Mundial de 2010, algunos de los compañeros de Messi en el F.C. Barcelona habían logrado incluir en sus vitrinas todos los trofeos posibles; para el argentino, ésta seguía siendo una asignatura pendiente. A pesar de su contribución, y excluyendo la medalla de oro en los Juegos Olímpicos de Pekín de 2008, los resultados con la selección argentina fueron mediocres. En el Mundial de Alemania (2006) no pasó de los cuartos del final. Mayores expectativas despertó la participación en el Mundial de Sudáfrica (2010), con el astro argentino en un momento pletórico de forma; pero el combinado albiceleste, bajo la controvertida dirección del legendario Maradona como técnico, cayó estrepitosamente frente a Alemania, de nuevo en los cuartos de final. El distinto rendimiento de Leo Messi con la selección y con el F. C. Barcelona hizo correr ríos de tinta; al final, el fútbol es un juego de equipo en el que cualquier análisis debe tomar en consideración muchos factores. Los argentinos depositaron sus esperanzas en el Mundial de Brasil de 2014, pero hay que decir que Messi no llegaba a la cita mundialista en su mejor versión. Finalizada la era Guardiola, demostró seguir siendo el de siempre en la temporada 2012-2013 con Tito Vilanova (el segundo de Guardiola) en el banquillo, y el club se llevó la liga con récord de puntos; una lesión del crack argentino en el tramo decisivo de la temporada impidió triunfos mayores. Pero a principios de la temporada siguiente, con su compatriota Tata Martino como entrenador, una recaída en la lesión lo apartó dos meses de los terrenos de juego, y aunque el Barça tuvo opciones hasta el final, la temporada 2013-2014 se cerró sin ningún título y con un Messi menos inspirado que en las campañas precedentes. Ciertamente, ni la selección argentina ni Leo Messi brillaron especialmente en el Mundial de Brasil de 2014. Si bien los albicelestes empezaron ganando todos los partidos, lo hicieron siempre por la mínima, y fue necesario acudir a las tandas de penaltis para superar las semifinales. En la final contra Alemania, que venía de humillar a los anfitriones por un inaudito 7 a 1, los argentinos supieron frenar el embate germánico y dispusieron de oportunidades, pero acabaron perdiendo en la prórroga. Considerando el juego exhibido, el subcampeonato fue un buen resultado; los argentinos no lo habían logrado desde los tiempos de Maradona. Messi fue además distinguido con el Balón de Oro del Mundial, pero el sueño de conquistar el preciado título quedó otra vez pospuesto.</p>
+          </section>
+        
+      
+        <div align="center">
+        <iframe width="600" height="550" src="https://www.youtube.com/embed/5Kv4n18IGmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      </body>   
+      </html> 
