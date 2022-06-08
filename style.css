@@ -42,7 +42,7 @@ nav a{
 
 nav a:hover{
 
-  color: white
+  color: yellow
 }
 
 @media (max-width:700px){
