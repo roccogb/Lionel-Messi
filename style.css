@@ -6,7 +6,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid lightblue;
   float: left;
-  width: 500px;
+  width: 600px;
   color: white;
 
 }
@@ -19,8 +19,8 @@ div.gallery:hover {
 
 
 div.gallery img {
-  width: 500px;
-  height: 400px;
+  width: 600px;
+  height: 550px;
 
 
 }
@@ -51,6 +51,7 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
 }
+
 
 a {
     color: rgb(238, 255, 0);
