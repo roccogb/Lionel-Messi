@@ -3,6 +3,27 @@ body {
 }
 
 
+html {
+
+font-size: 16px;
+
+}
+
+.title{
+
+  font-size: 2rem;
+}
+
+h2 {
+
+  font-size: 2rem;
+}
+
+p{
+
+  font-size: 1rem;
+}
+
  header {
 
   display:flex;
@@ -11,7 +32,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  Scroll behavior: smooth;
+
 }
 
 .logo {
@@ -96,7 +117,7 @@ p {
     text-align-last: left;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    
 }
 
 h2 {
@@ -105,7 +126,7 @@ h2 {
     text-align-last: left;
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;
+    
 }
 
 
@@ -115,5 +136,16 @@ h1 {
   text-align-last: left;
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 40px;
+  
+}
+
+
+.container {
+
+  max-width: 700px;
+  width: 100%;
+  padding: 45px 20px;
+  margin: 0 auto;
+  border: 1px solid lightblue;
+
 }
