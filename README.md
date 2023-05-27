@@ -1,4 +1,3 @@
-# Lionel-Messi
-Trabajo Lenguitas
+### 🐐 Lionel Messi
 
-MESSI > TODOS LOS JUGADORES DEL MUNDO
+Homework for school
